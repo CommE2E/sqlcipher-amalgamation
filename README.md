@@ -1,6 +1,6 @@
 # SQLCipher amalgamation file for React Native
 
-[![npm version](https://badge.fury.io/js/sqlcipher-amalgamation.svg)](https://badge.fury.io/js/sqlcipher-amalgamation)
+[![npm version](https://badge.fury.io/js/@commapp%2Fsqlcipher-amalgamation.svg)](https://badge.fury.io/js/@commapp%2Fsqlcipher-amalgamation)
 
 SQLCipher C sources amalgamation file NPM package for building in the React Native project.
 
