@@ -1,10 +1,7 @@
 {
   "name": "@commapp/sqlcipher-amalgamation",
-  "version": "4.4.3a",
+  "version": "4.5.5",
   "description": "SQLCipher sources amalgamation file",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CommE2E/sqlcipher-amalgamation.git"
@@ -15,7 +12,7 @@
     "sqlite3"
   ],
   "author": "Max Kalashnikov",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/CommE2E/sqlcipher-amalgamation/issues"
   },
