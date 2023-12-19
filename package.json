@@ -1,6 +1,6 @@
 {
   "name": "@commapp/sqlcipher-amalgamation",
-  "version": "4.5.5a",
+  "version": "4.5.5b",
   "description": "SQLCipher sources amalgamation file",
   "repository": {
     "type": "git",

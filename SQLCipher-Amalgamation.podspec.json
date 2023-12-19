@@ -11,10 +11,10 @@
     "requires_arc": false,
     "source": {
         "git": "https://github.com/CommE2E/sqlcipher-amalgamation.git",
-        "tag": "v4.5.5a"
+        "tag": "v4.5.5b"
     },
     "summary": "Full Database Encryption for SQLite.",
-    "version": "4.4.3a",
+    "version": "4.5.5b",
     "module_name": "SQLCipher",
     "dependencies": {
         "OpenSSL-Universal": []
